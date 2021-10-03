@@ -1,5 +1,14 @@
 # iEntropy
 
+The portable edition can be directly download here. The zip file including source code files and .exe file.
+
+Notice: exe file is portable edition which do not support aes package.
+
+https://drive.google.com/file/d/1Plnqu-Wm-RrHrzqnqhrrPo38ZvJgPHhp/view?usp=sharing
+
+Those who want to use complete edition with 3D lattice structure visualization should install the package by themselves.
+It is very easy. Just install it with following steps.
+
 Python version: Python 3.9.6
 
 package we need: ase(for lattice structure visualization) and PyQt5(GUI)
@@ -17,7 +26,7 @@ PyQt5
 
 
 We build a new virtual environment. After installing the mentioned two packages, we have the following package list.
-The source code can be compiled successfully and run in this virtual environment.
+The source code can be compiled successfully and run in this virtual environment. You can also check the packages by using command
 
 
     pip3 list
@@ -41,4 +50,13 @@ The source code can be compiled successfully and run in this virtual environment
 |setuptools      | 58.1.0  |
 |six             | 1.16.0  |
 |wheel           | 0.37.0  |
+
+
+Congratulation!!
+You have installed all the packages we need. 
+Now just open the file main.py and run it. Then you can use all the function we have in portable edition.
+To use the visualization function, you need to uncomment just two line code in the main.py.
+
+Hope you enjoy iEntropy!!
+
 
