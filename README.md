@@ -1,11 +1,10 @@
 # iEntropy
 
-The portable edition can be directly download here. The zip file including source code files and .exe file.
-
-Notice: exe file is portable edition which do not support aes package. 
+Notice: exe file is portable edition which do not support ase package. 
 
 https://drive.google.com/file/d/1Plnqu-Wm-RrHrzqnqhrrPo38ZvJgPHhp/view?usp=sharing
 
+Executable file is a portable version which do not support 3D illustration. Please check README.md to experience full version.
 
 Those who want to use complete edition with 3D lattice structure visualization should download the code in github and install the package by themselves. The source code in github is full version.
 It is very easy. Just install it with following steps.
