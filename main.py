@@ -233,6 +233,8 @@ def Click_exp():
     ui.LEP4.setText("1")
     ui.LEP5.setText("4")
     ui.random_but.setChecked(True)
+    global Vac
+    Vac = True
     ui.proportionedit.setText("20")
     ui.Edge.setText("7")
     
